@@ -1,0 +1,4 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"user_profile_error_image_dimensions": "{width}x{height}"
+}
